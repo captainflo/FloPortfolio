@@ -1,2 +1,2 @@
 # FloPortfolio
-All my project I did it in Js
+All my project I did in Js
